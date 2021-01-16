@@ -3,7 +3,7 @@
 ### Hello there 👋
 💬 My name is Anjelica Avorque and I am a junior Computer Science Student at the University of Texas at Dallas
 - 🔭 I’m currently working on building my own personal website from scratch!
-- 🌱 Languages: Java, HTML, CSS, Phython
+- 🌱 Languages: Java, HTML, JavaScript, CSS, Python
 - 😄 Pronouns: She/Her
 - 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/anjelica-avorque/)! 
 <!--
