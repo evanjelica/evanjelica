@@ -2,9 +2,10 @@
 
 ### Hello there 👋
 💬 My name is Anjelica Avorque and I am a junior Computer Science Student at the University of Texas at Dallas
-- 🔭 I’m currently working on a few design and web dev projects!
-- 🌱 Languages: Java, C++, HTML, JavaScript, CSS, Python
 - 😄 Pronouns: She/Her
+- 🌱 Languages: Java, C++, HTML, JavaScript, CSS, Python
+- 👯 Extracurriculars: Association of Computing Machinery, UX Club
+- 🔭 I’m currently working on a few design and web dev projects!
 - 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/anjelica-avorque/)! 
 <!--
 **evanjelica/evanjelica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
