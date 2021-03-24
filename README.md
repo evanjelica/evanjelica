@@ -1,4 +1,4 @@
-![Lofi Study Beats](https://thumbs.gfycat.com/AgedMiniatureBoto-max-1mb.gif)
+![Lofi Study Beats](https://thumbs.gfycat.com/AccurateYawningAnchovy-max-1mb.gif)
 
 ### Hello there 👋
 💬 My name is Anjelica Avorque and I am a junior Computer Science Student at the University of Texas at Dallas
