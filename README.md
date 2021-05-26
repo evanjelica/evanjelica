@@ -1,12 +1,12 @@
 ![Lofi Study Beats](https://thumbs.gfycat.com/AccurateYawningAnchovy-max-1mb.gif)
 
 ### Hello there 👋
-💬 My name is Anjelica Avorque and I am a junior Computer Science Student at the University of Texas at Dallas
-- 😄 Pronouns: She/Her
-- 🌱 Languages: Java, C++, HTML, JavaScript, CSS, Python
+💬 My name is Anjelica (she/her) and I'm a Senior Computer Science Student at the University of Texas at Dallas
 - 👩‍💻 Currently working as a Game Development intern and Undergraduate Researcher
-- 👯 Extracurriculars: Association of Computing Machinery, UX Club
-- 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/anjelica-avorque/)! 
+- 🌻 **Languages:** Java, C++, HTML, JavaScript, CSS, Python
+- ⭐ **Interests:** UI/UX Design, Human-Computer Interaction, Virtual Reality, Game Development
+- 👯 **Extracurriculars:** Association of Computing Machinery, UX Club
+- 📫 *You can connect with me on [LinkedIn](https://www.linkedin.com/in/anjelica-avorque/)!* 
 <!--
 **evanjelica/evanjelica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
