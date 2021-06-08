@@ -1,4 +1,4 @@
-![Studio Ghibli](https://i.pinimg.com/originals/87/7b/ef/877bef7424e93c9eba1c7bab2b2cea32.gif)
+![Studio Ghibli](https://i.pinimg.com/originals/3c/d2/ba/3cd2ba79afd18c4ad49b04ac5d01a177.gif)
 
 ### Hi I'm Anjelica (she/her) 👋
 💬 I'm a Senior Computer Science Student at the University of Texas at Dallas
