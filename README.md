@@ -1,7 +1,7 @@
 ![Studio Ghibli](https://blog.lootcrate.com/wp-content/uploads/2020/01/GL5qzLh.gif)
 
 ### Hi I'm Anjelica (she/her) 👋
-💬 I'm a Senior Computer Science Student at the University of Texas at Dallas
+I'm a Senior Computer Science Student at the University of Texas at Dallas
 - 👩‍💻 **Currently working as a**
   - Game Development intern @ Center for BrainHealth
   - Undergraduate Summer Researcher @ UTD Multimodal Interaction Lab
