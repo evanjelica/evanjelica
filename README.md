@@ -2,7 +2,7 @@
 
 ### Hi I'm Anjelica (she/her) 👋
 I'm a Senior Computer Science Student at the University of Texas at Dallas
-- 👩‍💻 **Currently working as a**
+- 👩‍💻 **Currently working as a:**
   - Game Development intern @ Center for BrainHealth
 - 🌻 **Languages:** Java, C++, C#, HTML, JavaScript, CSS, Python
 - ⭐ **Interests:** UI/UX Design, Human-Computer Interaction, Virtual Reality, Game Development
