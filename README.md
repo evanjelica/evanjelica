@@ -4,7 +4,7 @@
 I'm a Senior Computer Science Student at the University of Texas at Dallas
 - 👩‍💻 **Currently working as a:**
   - Game Development intern @ Center for BrainHealth
-- 🌻 **Languages:** Java, C++, C#, HTML, JavaScript, CSS, Python
+- 🌻 **Languages:** JavaScript, Java, C++, C#, HTML, CSS
 - ⭐ **Interests:** UI/UX Design, Human-Computer Interaction, Virtual Reality, Game Development
 - 📚 **Extracurriculars:** [Association of Computing Machinery](https://acmutd.co/), [UX Club](https://uxutd.com/), [Alpha Gamma Delta](http://utdallas.alphagammadelta.org/)
 - 🎨 [I also do art on the side](https://evanjelica.github.io/pages/art.html)
