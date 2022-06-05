@@ -3,7 +3,7 @@
 ### Hi I'm Anjelica (she/her) 👋
 I'm a Senior Computer Science Student at the University of Texas at Dallas
 - 👩‍💻 **Currently:**
-  - Incoming Software Engineer @ JPMorgan Chase (June 2022)
+  - Software Engineer @ JPMorgan Chase (June 2022)
 - 😴 **Formerly:**
   - Game Development intern @ Center for BrainHealth (March 2021 - March 2022)
 - 🌻 **Languages:** JavaScript, Java, C++, C#, HTML, CSS
