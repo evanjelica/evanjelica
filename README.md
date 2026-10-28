@@ -5,7 +5,7 @@ i studied Computer Science at the University of Texas at Dallas
 
 
 #### 📫 Links
-[Personal Website](https://evanjelica.github.io) | [LinkedIn](https://www.linkedin.com/in/anjelica-avorque/)
+[LinkedIn](https://www.linkedin.com/in/anjelica-avorque/)
 
 ---
 
